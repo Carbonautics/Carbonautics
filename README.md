@@ -47,7 +47,7 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles&theme=onedark" />
