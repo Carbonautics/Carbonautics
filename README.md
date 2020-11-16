@@ -25,6 +25,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=carbonautics.PratikNadgouda)
 
 <br />
+
 Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology](https://git.edu/) and an IOT Intern [@Uilatech](https://uilatech.com/). I enjoy Gaming, Travelling, Photography and obviously Programming!.
 
 **Software Knowledge:**
