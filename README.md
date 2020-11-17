@@ -5,11 +5,11 @@
 </a>
 
 <a href="https://stackoverflow.com/users/11792588/carbonautics">
-  <img align="left" alt="Pratik's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Pratik's Stackoverflow profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<a href="https://steamcommunity.com/id/carbonautics/">
-  <img align="left" alt="Pratik's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.hackerrank.com/carbonautics/">
+  <img align="left" alt="Pratik's Hacker Rank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/carbonautics/">
@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://steamcommunity.com/id/carbonautics/">
-  <img align="left" alt="Pratik's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+  <img align="left" alt="Pratik's Steam Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
 
 <a href="https://www.instagram.com/carbonautix/">
