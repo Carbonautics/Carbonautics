@@ -54,7 +54,7 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 
 ✔️ **Languages I have used-->**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles,FA-ins-web&theme=onedark" />
 </a>
 
 📈 **Overall Github Stats-->** 
