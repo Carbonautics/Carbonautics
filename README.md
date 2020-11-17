@@ -48,10 +48,6 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 
 <br />
 
-📈 **Overall Github Stats-->** 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
-
 📊 **This Week's work-->** 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
@@ -60,3 +56,7 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles&theme=onedark" />
 </a>
+
+📈 **Overall Github Stats-->** 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
