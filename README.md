@@ -26,9 +26,11 @@
 
 <br />
 
-Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology](https://git.edu/) and an IOT Intern [@Uilatech](https://uilatech.com/). I enjoy Gaming, Travelling, Photography and obviously Programming!.
+Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology](https://git.edu/) and an IOT Intern 👔[@Uilatech](https://uilatech.com/). I enjoy Gaming, Travelling, Photography and obviously Programming!.
 
-**Software Knowledge:**
+<br />
+
+💻 **Software Knowledge-->**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -36,20 +38,25 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
 
-**Personal Stuff:**
+📌 **Personal Stuff-->**
 - 🌱 I’m currently learning Java, Advanced Python and Algorithms;
 - 💬 I am always happy to help about anything I know about, ask me anything;
 - 📫 How to reach me: [@Pratik Nadgouda](https://twitter.com/Carbonautix)
-- 📝[Resume](https://drive.google.com/file/d/1WDmYURKQMowAom6tz5FKFo6k9E__TSrg/view?usp=sharing)
+- 📑[Resume](https://drive.google.com/file/d/1WDmYURKQMowAom6tz5FKFo6k9E__TSrg/view?usp=sharing)
 
+<br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles&theme=onedark" />
+📈 **Overall Github Stats-->** 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
+
+📊 **This Week's work-->** 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
+
+✔️ **Languages I have used-->**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles&theme=onedark" />
 </a>
