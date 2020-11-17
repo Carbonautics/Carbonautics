@@ -42,7 +42,7 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 
 📌 **Personal Stuff-->**
 - 🌱 I’m currently learning Java. Practicing C/C++, Python and Algorithms;
-- 💬 I am always happy to help about anything I know about, ask me anything;
+- 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything;
 - 📫 How to reach me: [@Pratik Nadgouda](https://twitter.com/Carbonautix);
 - 📑 [Resume](https://drive.google.com/file/d/1WDmYURKQMowAom6tz5FKFo6k9E__TSrg/view?usp=sharing);
 
