@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/x9PuXu5">
   <img align="left" alt="Pratik's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -41,6 +41,7 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 <br />
 
 📌 **Personal Stuff-->**
+
 - 🌱 I’m currently learning Java. Practicing C/C++, Python and Algorithms;
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything;
 - 📫 How to reach me: [@Pratik Nadgouda](https://twitter.com/Carbonautix);
@@ -55,7 +56,6 @@ Hi, I'm Pratik Nadgouda, a student from India, currently studying Electronics an
 ✔️ **Languages I have used-->**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles,FA-ins-web&theme=onedark" />
-</a>
 
 📈 **Overall Github Stats-->** 
 <p align="center">
