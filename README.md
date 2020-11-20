@@ -12,7 +12,7 @@
   <img align="left" alt="Pratik's Hacker Rank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/carbonautics/">
+<a href="https://www.linkedin.com/in/pratiknadgouda/">
   <img align="left" alt="Pratik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -38,7 +38,7 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=carbonautics.PratikNadgouda)
+![](https://visitor-badge.glitch.me/badge?page_id=carbonautics.carbonautics)
 
 <br />
 
