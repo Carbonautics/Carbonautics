@@ -1,9 +1,9 @@
 <h1 align="center"> Hey there I'm Pratik<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 <br />
 
-I enjoy exploring new things and technologies. I love the process of learning something new everyday even in my daily-routine. I tend to look into too many details if I'm curious about something I like doing such as gaming, programming, Space!, photography and travelling.
+I enjoy exploring new things and technologies. Love the process of learning something new everyday even in my daily-routine. Tend to look into too many details if I'm curious about something I like doing such as gaming, programming, Space!, photography and travelling.
 
-Formally I'm an Engineering student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology, Belagavi](https://git.edu/) almost at the end 6th Semester.
+I'm an Engineering student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology, Belagavi](https://git.edu/) almost at the end 6th Semester.
 
 ![visitor bage](https://visitor-badge.glitch.me/badge?page_id=carbonautics.PratikNadgouda)
 
