@@ -58,7 +58,7 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 <h2> <b> 📌 Personal Stuff--> </b></h2>
 <br/>
 
-- 🌱 I’m currently learning Javascript. Also practicing C++ & Python;
+- 🌱 I’m currently trying to go deeper into Javascript. Also trying to learn Django.  Practicing C++ & Python;
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything;
 - 📫 How to reach me: [@Pratik Nadgouda](https://twitter.com/Carbonautix);
 - 📑 [Resume](https://drive.google.com/file/d/1acGD3B7PDNvI0FA7PyU9KFK6dTysjFSv/view?usp=sharing);
