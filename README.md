@@ -9,8 +9,10 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 
 <br />
 
-### 🙋 **Socials-->**
+<h2> <b> 🙋 Socials--> </b></h2>
+
 <br/>
+
 <code href="https://www.hackerrank.com/carbonautics/">
   <img align="left" alt="Pratik's Hacker Rank profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </code>
