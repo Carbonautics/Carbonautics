@@ -42,11 +42,10 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 
 <h2> <b> 💻 Software Knowledge--> </b></h2>
 
-<br />
 
 |Programming Languages | Technologies/Applications |
 | :------------------: | :-----------------------: |
-| <img height="55" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg"> <h4>C++</h4> | <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><h4>git</h4> |
+| <a><img height="55" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg"></a> <h4>C++</h4> | <a><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a><h4>git</h4> |
 | <img height="45" src=https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg><h4>Python</h4> | <img height="45" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Notion.svg"><h4>Notion</h4> |
 | <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"><h4>Arduino</h4> | <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"><h4>Arduino IDE</h4> |
 | | <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg"><h4>VS Code Insiders</h4>|
@@ -56,6 +55,7 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 
 
 <h2> <b> 📌 Personal Stuff--> </b></h2>
+
 <br/>
 
 - 🌱 I’m currently trying to go deeper into Javascript. Also trying to learn Django.  Practicing C++ & Python;
