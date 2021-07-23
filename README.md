@@ -31,7 +31,7 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 <a href="https://www.instagram.com/carbonautix/">
   <img align="left" alt="Pratik's Instagram" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
 </a>
-<a href="carbonautics@gmail.com">
+<a href="mailto:carbonautics@gmail.com">
   <img align="left" alt="Pratik's email" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
 </a>
 
