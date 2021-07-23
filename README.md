@@ -13,27 +13,27 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 
 <br/>
 
-<code href="https://www.hackerrank.com/carbonautics/">
+<a href="https://www.hackerrank.com/carbonautics/">
   <img align="left" alt="Pratik's Hacker Rank profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</code>
-<code href="https://www.linkedin.com/in/pratiknadgouda/">
+</a>
+<a href="https://www.linkedin.com/in/pratiknadgouda/">
   <img align="left" alt="Pratik's LinkdeIn" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
-</code>
-<code href="https://twitter.com/Carbonautix">
+</a>
+<a href="https://twitter.com/Carbonautix">
   <img align="left" alt="Pratik Nadgouda | Twitter" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
-</code>
-<code href="https://discord.gg/x9PuXu5">
+</a>
+<a href="https://discord.gg/x9PuXu5">
   <img align="left" alt="Pratik's Discord" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" />
-</code>
-<code href="https://steamcommunity.com/id/carbonautics/">
+</a>
+<a href="https://steamcommunity.com/id/carbonautics/">
   <img align="left" alt="Pratik's Steam Profile" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Steam.svg" />
-</code>
-<code href="https://www.instagram.com/carbonautix/">
+</a>
+<a href="https://www.instagram.com/carbonautix/">
   <img align="left" alt="Pratik's Instagram" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
-</code>
-<code href="carbonautics@gmail.com">
+</a>
+<a href="carbonautics@gmail.com">
   <img align="left" alt="Pratik's email" width="35px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
-</code>
+</a>
 
 <br/>
 <br/>
@@ -59,7 +59,7 @@ Formally I'm an Engineering student from India, currently studying Electronics a
 <br/>
 
 - 🌱 I’m currently learning Javascript. Also practicing C++ & Python;
-- 💬 Although I'm still code newbie, I am always happy to help with anything I know, ask me anything;
+- 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything;
 - 📫 How to reach me: [@Pratik Nadgouda](https://twitter.com/Carbonautix);
 - 📑 [Resume](https://drive.google.com/file/d/1acGD3B7PDNvI0FA7PyU9KFK6dTysjFSv/view?usp=sharing);
 
