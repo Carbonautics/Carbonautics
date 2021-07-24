@@ -68,17 +68,14 @@ I'm an Engineering student from India, currently studying Electronics and Commun
 
 
 <h2> <b> 📊 My week's work--> </b></h2>
-<br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
-</p>
-<br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 <br/>
 
 <h2> <b> ✔️ Todoist Stats--></b></h2>
-<br/>
 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
@@ -88,15 +85,13 @@ I'm an Engineering student from India, currently studying Electronics and Commun
 <!-- TODO-IST:END -->
 
 <br/>
-<br/>
-<br/>
 
-<h2> <b> 📈 Overall Github Stats--></b></h2>
-<br/>
+<h2> <b> 📈 Overall Stats--></b></h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
 </p>
+
 <br/>
 <br/>
 <br/>
