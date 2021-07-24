@@ -72,16 +72,17 @@ I'm an Engineering student from India, currently studying Electronics and Commun
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carbonautics&theme=onedark" />
-
+</p>
 <br/>
 <br/>
 <br/>
 
-<h2> <b> ✔️ Languages I have used--></b></h2>
+<h2> <b> ✔️ Todoist Stats--></b></h2>
 <br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonautics&layout=compact&exclude_repo=Insurgency-server,dotfiles,FA-ins-web&theme=onedark" />
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <br/>
 <br/>
 <br/>
@@ -91,7 +92,7 @@ I'm an Engineering student from India, currently studying Electronics and Commun
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
-
+</p>
 <br/>
 <br/>
 <br/>
