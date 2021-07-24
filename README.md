@@ -88,8 +88,8 @@ C++        6 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
-🌸  Completed 11 tasks today           
-✅  Completed 11 tasks so far           
+🌸  Completed 13 tasks today           
+✅  Completed 13 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
