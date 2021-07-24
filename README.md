@@ -87,8 +87,8 @@ C++        6 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <h2> <b> ✔️ Todoist Stats--></b></h2>
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 13 tasks today           
+🏆  200 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 13 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
