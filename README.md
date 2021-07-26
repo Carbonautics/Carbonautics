@@ -87,9 +87,9 @@ Git Config   4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <h2> <b> ✔️ Todoist Stats--></b></h2>
 
 <!-- TODO-IST:START -->
-🏆  290 Karma Points           
+🏆  323 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 14 tasks so far           
+✅  Completed 15 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
