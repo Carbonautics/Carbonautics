@@ -80,9 +80,6 @@ Markdown   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-<br/>
-<br/>
-
 <h2> <b> ✔️ Todoist Stats--></b></h2>
 
 <!-- TODO-IST:START -->
