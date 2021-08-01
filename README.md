@@ -99,9 +99,3 @@ Markdown   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=carbonautics&show_icons=true&theme=onedark" />
 </p>
-
-<br/>
-<br/>
-<br/>
-
-_All icons and dynamic content used here are not my creations, they are used purely for non-commercial use. All logos are work of their original creators._
