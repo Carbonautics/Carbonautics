@@ -84,9 +84,9 @@ HTML         7 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <h2> <b> ✔️ Todoist Stats--></b></h2>
 
 <!-- TODO-IST:START -->
-🏆  463 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 17 tasks so far           
+🏆  963 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 18 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
