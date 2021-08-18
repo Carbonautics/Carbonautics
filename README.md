@@ -56,18 +56,17 @@ An Engineering student, currently studying Electronics and Communications Engine
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
-C++      47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.98 % 
-Python   7 mins          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.02 % 
+Python   1 hr 11 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
 <h2> <b> ✔️ Todoist Stats --></b></h2>
 
 <!-- TODO-IST:START -->
-🏆  323 Karma Points           
+🏆  963 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 15 tasks so far           
+✅  Completed 19 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
