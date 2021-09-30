@@ -56,9 +56,7 @@ An Engineering student, currently studying Electronics and Communications Engine
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
