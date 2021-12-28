@@ -56,7 +56,7 @@ An Engineering student, currently studying Electronics and Communications Engine
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
 Other    1 hr 18 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.48 % 
 Python   2 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.50 % 
