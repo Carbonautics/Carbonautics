@@ -55,11 +55,13 @@ An Engineering student, currently studying Electronics and Communications Engine
 <h2> <b> 📊 My week's work --> </b></h2>
 
 <!--START_SECTION:waka-->
+
 ```text
-From: 18 February, 2022 - To: 25 February, 2022
+From: 20 February 2022 - To: 27 February 2022
 
-
+HTML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h2> <b> ✔️ Todoist Stats --></b></h2>
