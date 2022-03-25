@@ -55,9 +55,18 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 <h2> <b> 📊 My week's work --> </b></h2>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 17 March 2022 - To: 24 March 2022
+
+HTML         4 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.78 %
+TypeScript   1 hr 2 mins     ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.33 %
+CSS          27 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.69 %
+JSON         13 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 %
+JavaScript   12 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.98 %
+INI          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h2> <b> ✔️ Todoist Stats --></b></h2>
@@ -65,6 +74,6 @@ No Activity tracked this Week
 <!-- TODO-IST:START -->
 🏆  963 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 23 tasks so far           
+✅  Completed 26 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
