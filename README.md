@@ -26,7 +26,7 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 <br/>
 
 
-<h2> <b> 💻 Software Knowledge--> </b></h2>
+<h2> <b> 💻 Software Knowledge --> </b></h2>
 
 
 |Programming Languages | Technologies/Applications |
