@@ -5,6 +5,7 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 
 - Senior Software Engineer (Fullstack) [@Persistent Systems Limited](https://persistent.com).
 - B.E/B.Tech Electronics and Communications Engineering from [KLS Gogte Institute of Technology, Belagavi](https://git.edu/).
+- Portfolio *(still building)*: [Pratik's Portfolio Website](https://carbonautics.vercel.app) || [It's Codebase](https://github.com/carbonautics/v1)
 
 <h2><b> 🙋 Socials --> </b></h2>
 
