@@ -3,14 +3,14 @@
 
 Passionate about exploring and gaining knowledge all the time. Tend to look into too many details if I'm curious about something I like doing such as gaming, programming, Space!, photography and travelling.
 
-- Fullstack Software Engineer [@Persistent Systems Limited](https://persistent.com).
+- Senior Software Engineer (Fullstack) [@Persistent Systems Limited](https://persistent.com).
 - B.E/B.Tech Electronics and Communications Engineering from [KLS Gogte Institute of Technology, Belagavi](https://git.edu/).
 
 <h2><b> 🙋 Socials --> </b></h2>
 
 <br/>
 
-[![Instagram Badge](https://img.shields.io/badge/Carbonautix-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pratik_nadgouda/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Carbonautix-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carbonautics/)&nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiknadgouda)&nbsp;
 [![gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadgoudapratik@gmail.com/)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/x9PuXu5)&nbsp;
@@ -19,7 +19,7 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 <br/>
 
 
-<h2> <b> 💻 Software Knowledge --> </b></h2>
+<h2> <b> 💻 Tech Skills --> </b></h2>
 
 
 |Programming Languages | Technologies/Applications |
@@ -37,10 +37,11 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 
 <br/>
 
-- 🌱 I’m currently working in BFSI Payments vertical. Focusing mainly on UI _(using React, Redux, react-query)_.
-- 💬 Always curious to learn and challenging opportunities.
+- 🌱 Actively learning Cyber security. Currently absorbing Networking knowledge.
+- I’m currently working in Payments domain for a client. Focusing mainly on UI _(using React, Zustand, react-query, StencilJs & Typescript)_.
+- 💬 Always curious to learn and for new challenging opportunities.
 - 📫 How to reach me: [@Pratik Nadgouda](mailto:nadgoudapratik@gmail.com);
-- 📑 [Resume](https://drive.google.com/file/d/1hJ_rlHBAqBqWfQ0SjaQjKRSnu7pe9NX0/view?usp=drive_link);
+- 📑 [My Resume](https://drive.google.com/file/d/1s6hKAJ6wpV48SvEmJwb1GRqMVL56zqLe/view);
 
 <br />
 <br />
@@ -48,7 +49,7 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 
 <h2> <b> 📊 My week's work --> </b></h2>
 
-_Mostly empty here on since I work on client-issued laptops_
+_Might be empty here occasionally, since I work on client-issued laptops at work._
 
 <!--START_SECTION:waka-->
 
@@ -63,12 +64,3 @@ Other         2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-<h2> <b> ✔️ Todoist Stats --></b></h2>
-
-<!-- TODO-IST:START -->
-🏆  1,420 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 41 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
