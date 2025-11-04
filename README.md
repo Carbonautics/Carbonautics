@@ -55,9 +55,12 @@ _Might be empty here occasionally, since I work on client-issued laptops at work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-No activity tracked
+Markdown     31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.77 %
+JavaScript   5 mins          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.11 %
+YAML         3 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.84 %
+Other        0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.28 %
 ```
 
 <!--END_SECTION:waka-->
