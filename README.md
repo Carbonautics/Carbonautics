@@ -42,7 +42,7 @@ Passionate about exploring and gaining knowledge all the time. Tend to look into
 - I’m currently working in Payments domain for a client. Focusing mainly on UI _(using React, Zustand, react-query, StencilJs & Typescript)_.
 - 💬 Always curious to learn and for new challenging opportunities.
 - 📫 How to reach me: [@Pratik Nadgouda](mailto:nadgoudapratik@gmail.com);
-- 📑 [My Resume](https://drive.google.com/file/d/1s6hKAJ6wpV48SvEmJwb1GRqMVL56zqLe/view);
+- 📑 [My Resume](https://drive.google.com/file/d/1N0ZdlnbFoxmHfVmb2U4rKqLf7RBDK4Ia/view?usp=sharing);
 
 <br />
 <br />
