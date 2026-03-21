@@ -1,11 +1,14 @@
 <h1 align="center"> Hey there I'm Pratik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 <br />
 
-Passionate about exploring and gaining knowledge all the time. Tend to look into too many details if I'm curious about something I like doing such as gaming, programming, Space!, photography and travelling.
+Learning like a C-130 going Brrrrrrtttttttt.
+<br/>
+Talk to me about Gaming, 1s and 0s, huge pointy <i>(or square if you are of that kind, idc)</i> rockets!, Photography and Traveling. 
 
-- Senior Software Engineer (Fullstack) [@Persistent Systems Limited](https://persistent.com).
+- Full stack (Fullstack) Developer and professional Problem Solver [@Persistent Systems Limited](https://persistent.com).
 - B.E/B.Tech Electronics and Communications Engineering from [KLS Gogte Institute of Technology, Belagavi](https://git.edu/).
 - Portfolio *(still building)*: [Pratik's Portfolio Website](https://carbonautics.vercel.app) || [It's Codebase](https://github.com/carbonautics/v1)
+- <i>If you are building something cool (or chaotic) but impactful, I'm already probably in, reach out to my email or LinkedIn below. </i>
 
 <h2><b> 🙋 Socials --> </b></h2>
 
