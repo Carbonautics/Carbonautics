@@ -58,7 +58,7 @@ _Might be empty here occasionally, since I work on client-issued laptops at work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2026 - To: 21 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
 No activity tracked
 ```
